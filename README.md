@@ -1,12 +1,9 @@
-## DESAFIO BOOTCAMP DIGITAL INNOVATION ONE  - DIO - JAVA BÁSICO
+## DESAFIO BOOTCAMP DIGITAL INNOVATION ONE  - DIO - JAVA BÁSICO/INTERMEDIÁRIO
 
-O desafio cumpre com os requistos para a elaboração de um script básico java, que aceita entradas via terminal e as imprime na tela.
+Desafios que cumprem com os requerimentos estipulados ao Bootcamp DIO. Os desafios estimulam a prática e aprendizado de segmentos essenciais para o desenvolvimento de sistemas Java. <p>Os abrangem princios como: Tratamento de Exceções, Controle de Fluxos, Algoritmos, Testes Unitários, Gerenciamento de Dependências, Frameworks, Banco de dados SQL e NOSQL, Documentação, Segurança, Design Patterns, Deploy em Nuvem, etc...
 <br>
 
-Para informações sobre o desafio [Clique Aqui](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe)
-
-## DIGITAL INNOVATION ONE BOOTCAMP CHALLENGE - DIO - BASIC JAVA
-The challenge meets the requirements for creating a basic Java script that accepts inputs via the terminal and prints them on the screen.
+## DIGITAL INNOVATION ONE BOOTCAMP CHALLENGE - DIO - BASIC/INTERMEDIATE JAVA
+Challenges that meet the requirements set by the DIO Bootcamp. The challenges encourage the practice and learning of essential segments for Java system development. <p>The teachings cover principles such as: Exception Handling, Control Flow, Algorithms, Unit Testing, Dependency Management, Frameworks, SQL and NoSQL Databases, Documentation, Security, Design Patterns, Cloud Deployment, etc...
 <br>
 
-For information about the challenge [Click Here](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe)
