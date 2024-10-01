@@ -11,4 +11,4 @@ Para informações sobre o desafio [Clique Aqui](https://github.com/digitalinnov
 
 For information about the challenge [Click Here](https://github.com/digitalinnovationone/trilha-java-basico/blob/main/desafios/poo/README.md)
 
-![UML.](https://www.mermaidchart.com/raw/61965ba5-6ea6-494d-bbbd-49ed2fff32ce?theme=dark&version=v0.1&format=svg"UML")
+![UML](https://www.mermaidchart.com/raw/61965ba5-6ea6-494d-bbbd-49ed2fff32ce?theme=dark&version=v0.1&format=svg "UML")
