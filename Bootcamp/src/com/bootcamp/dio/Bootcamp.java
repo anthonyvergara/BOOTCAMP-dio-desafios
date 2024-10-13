@@ -26,6 +26,10 @@ public class Bootcamp {
 		this.dataFinal = this.dataInicio.plusDays(45);
 	}
 	
+	/** 
+	 *  Realiza a verificação do status atual do Bootcamp com base nas variaveis DATA INICIO, DATA FINAL E DATA ATUAL.
+	 * 
+	 * */
 	public String status() {
 		if(LocalDate.now().isAfter(dataInicio) && LocalDate.now().isBefore(dataFinal)) {
 			return "EM ANDAMENTO!";

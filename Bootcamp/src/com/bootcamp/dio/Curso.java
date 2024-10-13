@@ -16,7 +16,7 @@ public class Curso extends Conteudo{
 		this.setBootcamp(bootcamp);
 		bootcamp.getConteudos().add(this);
 	}
-
+	
 	@Override
 	public double calcularXp() {
 		return cargaHoraria * VALOR_XP;

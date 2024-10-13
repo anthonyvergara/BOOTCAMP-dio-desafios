@@ -25,8 +25,7 @@ public class Dev {
 	
 	/**
 	 *  Realiza a inscrição do Desenvolvedor no Bootcamp
-	 * @param bootcamp 
-	 * 			- recebe o Objeto bootcamp. {@link Bootcamp}
+	 * @param bootcamp Recebe o bootcamp inscrito.
 	 * 					
 	*/
 	public void inscreverNoBootcamp(Bootcamp bootcamp) {
@@ -51,8 +50,8 @@ public class Dev {
 	
 	/**
 	 *  Realiza o calculo de XP por cada conteudo finalizado.
-	 * @param xp 
-	 * 			- recebe o valor de pontos (xp) obtidos por cada conteudo finalizado.
+	 *  
+	 * @param xp Recebe o valor do numero de pontos recebido pelo término do conteúdo.
 	 * 					
 	*/
 	private void calcularTotalXp(double xp) {

@@ -25,10 +25,15 @@ public class BootcampDev {
 		id = ThreadLocalRandom.current().nextLong(1111,9999);
 		this.setBootcamp(bootcamp);
 		this.setDev(dev);
-		this.status(dev, bootcamp);
+		this.verificarStatus(dev, bootcamp);
 	}
 	
-	private void status(Dev dev, Bootcamp bootcamp) {
+	/**
+	 *  Realiza a verificação do status do Dev com relação ao Bootcamp cadastrado.
+	 * 	@param dev Recebe o desenvolvedor cadastrado.
+	 * 	@param bootcamp recebe o bootcamp inscrito.
+	 */
+	private void verificarStatus(Dev dev, Bootcamp bootcamp) {
 		boolean verificacao =  false;
 		
 		Set<Conteudo> cont = bootcamp.getConteudos();
